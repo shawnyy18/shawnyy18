@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Shawn Ashlee Guarin!
 
-I'm an **IT student** passionate about **Cybersecurity**, **Web Development**, and **Content Creation**. I'm constantly learning, experimenting, and growing as I balance my studies and freelancing career.
+I'm an **IT student** passionate about **SEO**, **Web Development**, and **Content Creation**. I'm constantly learning, experimenting, and growing as I balance my studies and freelancing career.
+
 
 ## 🌟 What I'm Up To:
 - 🌐 Diving deep into **Search Engine Optimization (SEO)**, aspiring to become an **SEO Specialist**.
